@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://livicom.net/sitemap.xml
+Disallow:
