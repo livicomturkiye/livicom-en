@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Web sitesi kökündeki Microsoft 365 - konumu için etki alanı sahipliği doğrulama dosyası",
+  "Domain": "livicom.net",
+  "Id": "10174876-c413-4f2b-a566-e011aff417fc"
+}
