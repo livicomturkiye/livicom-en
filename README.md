@@ -22,3 +22,5 @@ The smart devices that are being used in homes are being used to make life easie
 ### [Smart Home Automation Security Concerns](https://livicom.net/smart-home-automation/security-concerns/)
 In this article, we review the well-known smart home automation security concerns that you should consider. Generally, Smart Home defines a residence that is controlled by the residence's various home automation systems.
 
+
+Contact details: info@livicomturkiye.com
